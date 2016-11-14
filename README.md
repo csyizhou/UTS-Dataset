@@ -13,5 +13,3 @@
 %******************************************************************************************************************%
 
 Download Link: https://drive.google.com/open?id=0B_cQR0JvXwyhY1dwV3QxYjVfMUk
-
-If you have any problem, please contact yi2.zhou@northumbria.ac.uk
